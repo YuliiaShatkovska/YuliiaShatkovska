@@ -47,7 +47,9 @@ Always open to new challenges and opportunities!🔥
 </p>
 
 
+### My stats
 
+[![codewars](https://www.codewars.com/users/YuliiaShatkovska/badges/large)](https://www.codewars.com/users/YuliiaShatkovska)
       
 
    
