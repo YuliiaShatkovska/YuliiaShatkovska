@@ -14,14 +14,6 @@ Always open to new challenges and opportunities!🔥
 
 ## Skills:
 
-<style>
-a {
-  text-decoration: none;
-  border: none;        
-  outline: none;       
-}
-</style>
-
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
