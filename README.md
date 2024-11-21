@@ -5,7 +5,7 @@ Always open to new challenges and opportunities!🔥
 
 ---
 
-## 📲 Contacts:
+# 📲 Contacts:
 
 ### • 📩 [Email](yuliia.shatkovska.dev@gmail.com)
 ### • 💻 [LinkedIn](www.linkedin.com/in/yuliia-shatkovska)
