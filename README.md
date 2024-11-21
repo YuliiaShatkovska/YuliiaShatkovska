@@ -21,6 +21,8 @@ Always open to new challenges and opportunities!🔥
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
   <a href="https://react.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://redux-toolkit.js.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a>
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank">
@@ -34,7 +36,11 @@ Always open to new challenges and opportunities!🔥
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
   <a href="https://sass-lang.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="CSS" width="40" height="40"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/></a>
+  <a href="https://bulma.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="Bulma" width="40" height="40"/></a>
 </p>
 
 
