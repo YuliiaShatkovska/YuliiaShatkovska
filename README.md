@@ -12,10 +12,5 @@ Always open to new challenges and opportunities!🔥
 ### • 📱 [Telegram](https://t.me/yuliia_shatkovska)
 
 
-## 📊 Статистика профілю:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![JavaScript]
