@@ -3,8 +3,12 @@
 
 Always open to new challenges and opportunities!🔥
 
+--
+
 📲 **Contacts:**
 
-  📩 [Email](yuliia.shatkovska.dev@gmail.com)
+    • 📩 [Email](yuliia.shatkovska.dev@gmail.com)
+    • 💻 [LinkedIn](www.linkedin.com/in/yuliia-shatkovska)
+    • 📱 [Telegram](https://t.me/yuliia_shatkovska)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
