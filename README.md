@@ -7,12 +7,12 @@ Always open to new challenges and opportunities!🔥
 
 **📲 Contacts:**
 
-  • 📩 [Email](yuliia.shatkovska.dev@gmail.com)
+  • 📩 [Email](mailto:yuliia.shatkovska.dev@gmail.com)
   • 💻 [LinkedIn](www.linkedin.com/in/yuliia-shatkovska)
   • 📱 [Telegram](https://t.me/yuliia_shatkovska)
 
 
-
+---
 
 **Skills:**
 
