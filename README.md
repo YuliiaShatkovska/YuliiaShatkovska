@@ -15,14 +15,13 @@ Always open to new challenges and opportunities!🔥
 ## Skills:
 
   <p align="center">
-    <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript">
+    <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     </a>
 
-    <a href="https://www.typescriptlang.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+     <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     </a>
-    
   </p>
 
 
