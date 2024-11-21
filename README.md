@@ -41,6 +41,8 @@ Always open to new challenges and opportunities!🔥
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/></a>
   <a href="https://bulma.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="Bulma" width="40" height="40"/></a>
+    <a href="https://bulma.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialua/materialua-original.svg" alt="MaterialUI" width="40" height="40"/></a>
 </p>
 
 
